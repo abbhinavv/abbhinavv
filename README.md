@@ -1,4 +1,4 @@
-### Hi there I'm Abhinav on my way to grow more on the path of Web. 👋
+### Hi there I'm Abhinav on my way to grow more on the path of Data Science. 👋
 
 <!--
 **abbhinavv/abbhinavv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
